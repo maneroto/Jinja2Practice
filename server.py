@@ -11,7 +11,7 @@ def home():
 
 @app.route('/about')
 def about():
-    return 'The about page'
+    return 'The about page is here'
 
 @app.route('/blog')
 def blog():
